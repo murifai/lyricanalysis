@@ -1,0 +1,107 @@
+2024-11-27 10:56:49,895 - ERROR: Error loading lexicons: 'IndonesianSentimentAnalyzer' object has no attribute '_read_lexicon_file'
+2024-11-27 10:56:49,904 - ERROR: Error processing input\bartjhe-satudalamcinta.txt: 'IndonesianSentimentAnalyzer' object has no attribute 'analyze_sentiment'
+2024-11-27 10:56:49,913 - ERROR: Error processing input\lastchild-duka.txt: 'IndonesianSentimentAnalyzer' object has no attribute 'analyze_sentiment'
+2024-11-27 10:56:49,913 - WARNING: No results to export.
+2024-11-27 11:00:06,098 - INFO: Loaded lexicons: 7215 positive, 13213 negative words
+2024-11-27 11:27:13,444 - INFO: Loaded lexicons: 7215 positive, 13213 negative words
+2024-11-27 11:27:13,454 - ERROR: Error processing input\bartjhe-satudalamcinta.txt: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\muamm/nltk_data'
+    - 'D:\\Code\\laragon\\bin\\python\\python-3.10\\nltk_data'
+    - 'D:\\Code\\laragon\\bin\\python\\python-3.10\\share\\nltk_data'
+    - 'D:\\Code\\laragon\\bin\\python\\python-3.10\\lib\\nltk_data'
+    - 'C:\\Users\\muamm\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-11-27 11:27:13,454 - ERROR: Error processing input\lastchild-duka.txt: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\muamm/nltk_data'
+    - 'D:\\Code\\laragon\\bin\\python\\python-3.10\\nltk_data'
+    - 'D:\\Code\\laragon\\bin\\python\\python-3.10\\share\\nltk_data'
+    - 'D:\\Code\\laragon\\bin\\python\\python-3.10\\lib\\nltk_data'
+    - 'C:\\Users\\muamm\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-11-27 11:27:13,454 - WARNING: No results to export.
+2024-11-27 11:29:51,567 - INFO: Loaded lexicons: 7215 positive, 13213 negative words
+2024-11-27 11:29:51,582 - ERROR: Error processing input\bartjhe-satudalamcinta.txt: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\muamm/nltk_data'
+    - 'D:\\Code\\laragon\\bin\\python\\python-3.10\\nltk_data'
+    - 'D:\\Code\\laragon\\bin\\python\\python-3.10\\share\\nltk_data'
+    - 'D:\\Code\\laragon\\bin\\python\\python-3.10\\lib\\nltk_data'
+    - 'C:\\Users\\muamm\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-11-27 11:29:51,582 - ERROR: Error processing input\lastchild-duka.txt: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\muamm/nltk_data'
+    - 'D:\\Code\\laragon\\bin\\python\\python-3.10\\nltk_data'
+    - 'D:\\Code\\laragon\\bin\\python\\python-3.10\\share\\nltk_data'
+    - 'D:\\Code\\laragon\\bin\\python\\python-3.10\\lib\\nltk_data'
+    - 'C:\\Users\\muamm\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-11-27 11:29:51,582 - WARNING: No results to export.
+2024-11-27 11:39:30,463 - INFO: Loaded lexicons: 7215 positive, 13213 negative words
+2024-11-27 11:42:03,084 - INFO: Loaded lexicons: 7215 positive, 13213 negative words
+2024-11-27 11:46:21,167 - INFO: Loaded lexicons: 7215 positive, 13213 negative words
+2024-11-27 11:46:23,403 - ERROR: Error processing dataframe 2: [Errno 13] Permission denied: 'output\\lastchild-duka_sentiment_analysis.xlsx'
+2024-11-27 11:50:45,948 - INFO: Loaded lexicons: 7215 positive, 13213 negative words
+2024-11-27 12:08:05,000 - INFO: Loaded lexicons: 7215 positive, 13213 negative words
